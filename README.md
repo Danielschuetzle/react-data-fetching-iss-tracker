@@ -21,7 +21,7 @@ To set up this project locally:
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/<your-github-username>/iss-tracker.git
+    git clone https://github.com/Danielschuetzle/react-data-fetching-iss-tracker
     ```
 
 2. Navigate to the project directory:
